@@ -1,16 +1,16 @@
 {
-  "main.css": "/sw-db/static/css/main.9cd6ce3e.chunk.css",
-  "main.js": "/sw-db/static/js/main.de75498a.chunk.js",
-  "main.js.map": "/sw-db/static/js/main.de75498a.chunk.js.map",
+  "main.css": "/sw-db/static/css/main.835a7501.chunk.css",
+  "main.js": "/sw-db/static/js/main.d43473e4.chunk.js",
+  "main.js.map": "/sw-db/static/js/main.d43473e4.chunk.js.map",
   "static/js/1.0a519d08.chunk.js": "/sw-db/static/js/1.0a519d08.chunk.js",
   "static/js/1.0a519d08.chunk.js.map": "/sw-db/static/js/1.0a519d08.chunk.js.map",
   "runtime~main.js": "/sw-db/static/js/runtime~main.9b3a2197.js",
   "runtime~main.js.map": "/sw-db/static/js/runtime~main.9b3a2197.js.map",
-  "static/css/main.9cd6ce3e.chunk.css.map": "/sw-db/static/css/main.9cd6ce3e.chunk.css.map",
+  "static/css/main.835a7501.chunk.css.map": "/sw-db/static/css/main.835a7501.chunk.css.map",
   "static/media/characters.gif": "/sw-db/static/media/characters.732cb37d.gif",
   "static/media/starships.gif": "/sw-db/static/media/starships.6fcafbd9.gif",
   "static/media/planets.gif": "/sw-db/static/media/planets.cb51ee6f.gif",
   "index.html": "/sw-db/index.html",
-  "precache-manifest.0309ba9571fc0e901d041871ec24a869.js": "/sw-db/precache-manifest.0309ba9571fc0e901d041871ec24a869.js",
+  "precache-manifest.46fb3bfada7a5ecab122e6fb1c9a3728.js": "/sw-db/precache-manifest.46fb3bfada7a5ecab122e6fb1c9a3728.js",
   "service-worker.js": "/sw-db/service-worker.js"
 }
